@@ -23,10 +23,7 @@
 <img align="left" alt="NODE.JS" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /> 
 <img align="left" alt="MONGODB" width="26px" src="https://i0.wp.com/www.disk91.com/wp-content/uploads/2018/02/mongodb-1.png?fit=413%2C484&ssl=1" /> <br />
 
-[![Instagram: ig.strangeop](https://img.shields.io/twitter/follow/imthepk?style=social)](https://www.instagram.com/ig.strangeop/)
-[![Linkedin: strangeop](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/strange-op-020a6b201/)
-[![GitHub Strange0P](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Strange0P)
-[![Behance: StrangeOP](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://www.behance.net/strangeop)
+
 
 ### My Bots
 
