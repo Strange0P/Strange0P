@@ -9,7 +9,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me: [Instagram](https://www.instagram.com/ig.strangeop/), [Behance](https://www.behance.net/strangeop), [Linkdin](https://www.linkedin.com/in/strange-op-020a6b201/)
 - 😄 Pronouns: He/His
-
+- ⚡ Also I’m A Vfx and Gfx Designer
+- 🤔 [Codes mantained by me: StrangeOP](https://github.com/Strange0P)<br />
 
 ### Tools and Languages:
 
