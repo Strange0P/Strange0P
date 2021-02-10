@@ -31,12 +31,12 @@
 <p align="left">
 <a href="https://top.gg/bot/784656991527370793">
     <img src="https://images.discordapp.net/avatars/784656991527370793/6f3092599e38097bc5e6ce0670725400.png?size=512" alt="CAT-MUSIC" width="80"/>
-  </a>
+
     
 <p align="left">
 <a href="https://discord.com/oauth2/authorize?client_id=800298879445630978&permissions=8&scope=bot">
-    <img src="https://media.discordapp.net/attachments/783253133609795625/808381684760051712/CENAX.png?width=480&height=480" alt="CENAX" width="100"/>
-  </a>
+    <img src="https://media.discordapp.net/attachments/783253133609795625/808381684760051712/CENAX.png?width=480&height=480" alt="CENAX" width="80"/>
+
 
 
 <br />
