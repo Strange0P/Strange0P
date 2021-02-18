@@ -35,7 +35,7 @@
     
 <p align="left">
 <a href="https://discord.com/oauth2/authorize?client_id=800298879445630978&permissions=8&scope=bot">
-    <img src="https://media.discordapp.net/attachments/783253133609795625/808381684760051712/CENAX.png?width=480&height=480" alt="CENAX" width="80"/>
+    <img src="https://images.discordapp.net/avatars/800298879445630978/9665df37a39a6c899f995c1010d1740a.png?size=128" alt="CENAX" width="80"/>
 
 
 
