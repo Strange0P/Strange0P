@@ -30,13 +30,6 @@
 
 <p align="left">
 <a href="https://top.gg/bot/784656991527370793">
-    <img src="https://images.discordapp.net/avatars/784656991527370793/6f3092599e38097bc5e6ce0670725400.png?size=512" alt="CAT-MUSIC" width="80"/>
-
-    
-<p align="left">
-<a href="https://discord.com/oauth2/authorize?client_id=800298879445630978&permissions=8&scope=bot">
-    <img src="https://images.discordapp.net/avatars/800298879445630978/9665df37a39a6c899f995c1010d1740a.png?size=128" alt="CENAX" width="80"/>
-
-
+    <img src="https://images.discordapp.net/avatars/784656991527370793/d97484c62d6a016e416d0f51db172a5b.png?size=128" alt="CENAX" width="80"/>
 
 <br />
