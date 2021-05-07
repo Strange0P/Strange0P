@@ -29,7 +29,10 @@
 ### My Bots
 
 <p align="left">
-<a href="https://top.gg/bot/784656991527370793">
-    <img src="https://images.discordapp.net/avatars/784656991527370793/d97484c62d6a016e416d0f51db172a5b.png?size=128" alt="CENAX" width="80"/>
-
+<a href="https://discord.com/api/oauth2/authorize?client_id=839131625009840189&permissions=8&scope=bot">
+    <img src="https://media.discordapp.net/attachments/811975297297547275/811975492156391454/Cenax_Black.png?width=590&height=590" alt="CENAX" width="80"/>
+<p align="left">
+<a href="https://discord.com/api/oauth2/authorize?client_id=838438748185296966&permissions=1140325696&scope=bot">
+    <img src="https://media.discordapp.net/attachments/811975297297547275/840253900686360576/Cat_Music.png?width=590&height=590" alt="CENAX" width="80"/>
+    
 <br />
