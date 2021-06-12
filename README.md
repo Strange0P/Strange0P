@@ -29,10 +29,10 @@
 ### My Bots
 
 <img align="left">
-<a href="https://discord.com/api/oauth2/authorize?client_id=839131625009840189&permissions=8&scope=bot">
-    <img src="https://media.discordapp.net/attachments/811975297297547275/811975492156391454/Cenax_Black.png?width=590&height=590" alt="CENAX" width="80"/>
+<a href="https://top.gg/bot/838438748185296966">
+    <img src="https://media.discordapp.net/attachments/811975297297547275/853094308500471869/Cat_Music_Full.png?width=590&height=590" alt="Cat Music" width="80"/>
 <img align="left">
-<a href="https://discord.com/api/oauth2/authorize?client_id=838438748185296966&permissions=1140325696&scope=bot">
-    <img src="https://media.discordapp.net/attachments/811975297297547275/840253900686360576/Cat_Music.png?width=590&height=590" alt="CENAX" width="80"/>
+<a href="https://discord.com/api/oauth2/authorize?client_id=838092272859349044&permissions=8&scope=bot">
+    <img src="https://media.discordapp.net/attachments/811975297297547275/853094246534217768/NORTEC.png?width=590&height=590" alt="Nortec" width="80"/>
     
 <br />
