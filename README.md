@@ -20,7 +20,6 @@
 <img align="left" alt="SONY VEGAS PRO" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV24RZHlj0uwmvv9KJY1Iz_blOr7fErMWWZw&usqp=CAU" /> 
 <img align="left" alt="VISUAL STUDIO CODE" width="26px" src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" />
 <img align="left" alt="JS" width="26px" src="https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png" />
-<img align="left" alt="DISCORD.JS" width="26px" src="https://discord.js.org/static/logo-square.png" /> 
 <img align="left" alt="NODE.JS" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /> 
 <img align="left" alt="MONGODB" width="26px" src="https://i0.wp.com/www.disk91.com/wp-content/uploads/2018/02/mongodb-1.png?fit=413%2C484&ssl=1" /> <br />
 
@@ -31,8 +30,5 @@
 <img align="left">
 <a href="https://top.gg/bot/838438748185296966">
     <img src="https://media.discordapp.net/attachments/811975297297547275/853094308500471869/Cat_Music_Full.png?width=590&height=590" alt="Cat Music" width="80"/>
-<img align="left">
-<a href="https://discord.com/api/oauth2/authorize?client_id=838092272859349044&permissions=8&scope=bot">
-    <img src="https://media.discordapp.net/attachments/811975297297547275/853094246534217768/NORTEC.png?width=590&height=590" alt="Nortec" width="80"/>
     
 <br />
