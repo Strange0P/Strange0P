@@ -20,7 +20,7 @@
 <img align="left" alt="ADOBE PREMIERE PRO" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-3.png" />
 <img align="left" alt="ADOBE PHOTOSHOP" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScpmtARdGm46A-qOtA-NwGjgp-1wMmGr0Bzw&usqp=CAU" />
 <img align="left" alt="DAVINCI RESOLVE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/960px-DaVinci_Resolve_Studio.png?20221107215930" />
-<img align="left" alt="BLENDER" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blender_3.0_icon.svg" />
+<img align="left" alt="BLENDER" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/512px-Logo_Blender.svg.png?20210528234327" />
 <br /><br />
 
 ### 💻 **Programming Languages**
