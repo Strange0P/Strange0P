@@ -19,7 +19,7 @@
 <img align="left" alt="ADOBE AFTER EFFECTS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" />
 <img align="left" alt="ADOBE PREMIERE PRO" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-3.png" />
 <img align="left" alt="ADOBE PHOTOSHOP" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScpmtARdGm46A-qOtA-NwGjgp-1wMmGr0Bzw&usqp=CAU" />
-<img align="left" alt="DAVINCI RESOLVE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/DaVinci_Resolve_17_logo.svg" />
+<img align="left" alt="DAVINCI RESOLVE" width="26px" src="https://images.blackmagicdesign.com/images/media/press-images/davinci-resolve-logo/davinci-resolve-logo-hero.jpg?_v=1621308338" />
 <img align="left" alt="BLENDER" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blender_3.0_icon.svg" />
 <br /><br />
 
