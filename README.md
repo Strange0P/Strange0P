@@ -36,7 +36,7 @@
 <br /><br />
 
 ### 🧰 **Developer Tools & Frameworks**
-<img align="left" alt="NODE.JS" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
+<img align="left" alt="NODE.JS" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" />
 <img align="left" alt="REACT" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="VUE" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="NEXT.JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
