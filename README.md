@@ -32,13 +32,12 @@
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Strange0P&show_icons=true&theme=catppuccin_mocha&count_private=true)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Strange0P&layout=compact&theme=catppuccin_mocha)
-
 ![](https://streak-stats.demolab.com?user=Strange0P&theme=catppuccin_mocha)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy-git-main.vercel.app/?username=Strange0P&theme=algolia&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Strange0P&theme=algolia&no-frame=true&margin-w=10)
+
 
