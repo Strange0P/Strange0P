@@ -34,10 +34,5 @@
 
 ![](https://streak-stats.demolab.com?user=Strange0P&theme=catppuccin_mocha)
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Strange0P&theme=algolia&no-frame=true&margin-w=10)
 
 
