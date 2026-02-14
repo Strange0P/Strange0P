@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 Website
-[![Broadcast Resume](https://img.shields.io/badge/Broadcast%20Resume-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kousikdas.vercel.app)
+[![Broadcast Resume](https://img.shields.io/badge/Broadcast%20Resume-B91C1C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kousikdas.vercel.app)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/strangeop)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/strange.op)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig.strangeop)
