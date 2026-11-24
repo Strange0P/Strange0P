@@ -23,7 +23,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Strange0P&show_icons=true&theme=catppuccin_mocha&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Strange0P&show_icons=true&theme=catppuccin_mocha&count_private=true)
 
 ![](https://streak-stats.demolab.com?user=Strange0P&theme=catppuccin_mocha)
 
